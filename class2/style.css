@@ -1,0 +1,50 @@
+html {
+	background-color: pink;
+	/* fonts like Helvetica */
+	font-family: sans-serif; 
+}
+
+body {
+	margin: 0;
+}
+
+h1 {
+	background-color: #fff; /*white*/
+	border: 5px solid lightsteelblue;
+	/*height: 200px;*/
+	margin: 0 0 5em;
+	padding: 1em;
+	width: 200px;
+}
+
+a {
+	text-decoration: none;
+}
+
+ol li {
+	color: green;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.first-list-item {
+	font-size: 3em;
+}
+
+li.special {
+	background: yellow;
+}
+
+li .special, h1 {
+	opacity: .5;
+}
+
+ul li.special {
+	box-shadow: 0 0 50px red;
+}
+
+.awesome-h2 {
+	color: red;
+	font-size: 1.7em;
+	text-align: center;
+}

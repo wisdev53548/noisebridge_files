@@ -1,0 +1,14 @@
+html {
+	background-color: pink;
+	font-family: sans-serif; 
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	color: green;
+	font-weight: bold;
+	font-style: italic;
+}
